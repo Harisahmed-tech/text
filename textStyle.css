@@ -1,0 +1,28 @@
+.main-para::first-letter {
+    font-size: 2.5em;
+    color: red;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.main-para::first-line {
+    color: blue;
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+    color: #2c5f7a;
+}
+
+.bonus-para::first-letter {
+    font-size: 2em;
+    color: #8b4513;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.bonus-para::first-line {
+    color: #006400;
+    font-style: italic;
+}
